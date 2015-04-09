@@ -49,6 +49,7 @@
      <Compile Include="Assets\Fantasy Skybox FREE\Scripts\FSPlayer.cs" />
      <Compile Include="Assets\Scripts\ChangeScene.cs" />
      <Compile Include="Assets\Scripts\ClickDetectionScript.cs" />
+     <Compile Include="Assets\Scripts\QuitApplication.cs" />
      <Compile Include="Assets\Scripts\ScoreTextScript.cs" />
      <Compile Include="Assets\Scripts\UpgradeScript.cs" />
      <Compile Include="Assets\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
